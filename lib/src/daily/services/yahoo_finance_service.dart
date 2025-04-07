@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:yahoo_finance_data_reader/src/daily/aux/join_prices.dart';
-import 'package:yahoo_finance_data_reader/src/daily/aux/strategy_time.dart';
+import 'package:yahoo_finance_data_reader/src/daily/auxiliary/join_prices.dart';
+import 'package:yahoo_finance_data_reader/src/daily/auxiliary/strategy_time.dart';
 import 'package:yahoo_finance_data_reader/src/daily/mixer/average_mixer.dart';
 import 'package:yahoo_finance_data_reader/src/daily/mixer/weighted_average_mixer.dart';
 import 'package:yahoo_finance_data_reader/src/daily/model/yahoo_finance_candle_data.dart';
